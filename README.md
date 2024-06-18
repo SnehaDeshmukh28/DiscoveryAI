@@ -22,6 +22,7 @@ Unlock the power of AI to discover groundbreaking technologies and craft compell
      ```plaintext
      GOOGLE_API_KEY=your_google_api_key
      SERPER_API_KEY=your_serper_api_key
+     
      ```
 
 4. **Run the tasks:**
