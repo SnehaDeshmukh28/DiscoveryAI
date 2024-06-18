@@ -7,7 +7,7 @@ Unlock the power of AI to discover groundbreaking technologies and craft compell
 1. **Clone the repo:**
    ```bash
    git clone https://github.com/SnehaDeshmukh28/DiscoveryAI.git
-   cd ai-research-writing-agents
+   cd DiscoveryAI
    ```
 
 2. **Set up your environment:**
@@ -24,7 +24,7 @@ Unlock the power of AI to discover groundbreaking technologies and craft compell
      SERPER_API_KEY=your_serper_api_key
      ```
 
-4. **Run the tasks:**
+4. **Run the script:**
    ```bash
    python crew.py
    ```
