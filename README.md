@@ -54,3 +54,7 @@ Add your Google API key in a `.env` file:
 GOOGLE_API_KEY=your_google_api_key
 SERPER_API_KEY=your_serper_api_key
 ```
+
+## Contact
+
+For questions or suggestions, feel free to contact us at [deshmusn@gmail.com](mailto:deshmusn@gmail.com).
