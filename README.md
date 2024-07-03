@@ -1,6 +1,6 @@
 # DiscoveryAI - AI-Powered Research and Writing Agents
 
-Unlock the power of AI to discover groundbreaking technologies and craft compelling tech stories. Our agents use Google's Gemini language models to deliver insightful research and engaging content.
+Unlock the power of AI to discover groundbreaking technologies and craft compelling tech stories. The agents use Google's Gemini language models to deliver insightful research and engaging content.
 
 ## Quick Start
 
